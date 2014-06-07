@@ -28,7 +28,7 @@ body {
 <link href="<?php echo Yii::app()->baseUrl?>/css/opa-icons.css" rel='stylesheet'>
 <link href="<?php echo Yii::app()->baseUrl?>/css/uploadify.css" rel='stylesheet'>
 <link href="<?php echo Yii::app()->baseUrl?>/css/additional.css" rel='stylesheet'>
-
+<link href="<?php echo Yii::app()->baseUrl?>/css/bootstrap-spacelab.css" rel='stylesheet'>
 <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
 	  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

@@ -239,7 +239,7 @@ Class Main  {
 						'height'=>'300',
 						'useCSS'=>true,
 				),
-				'value'=>$model->{$attribute}, //If you want pass a value for the widget. I think you will. Se você precisar passar um valor para o gadget. Eu acho irá.
+				'value'=>$model->{$attribute}, //If you want pass a value for the widget. I think you will. Se vocï¿½ precisar passar um valor para o gadget. Eu acho irï¿½.
 				'htmlOptions'=>array('class'=>'cleditorMain'),		
 		));
 	}

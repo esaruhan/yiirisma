@@ -16,7 +16,5 @@ class Wmain extends CWidget
     		default:
     			$this->render($this->view,array('model'=>$this->model));
     	}
-    	
-    	
     }
 }
